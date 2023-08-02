@@ -1,2 +1,3 @@
-# htromance.github.io
-web page for the project
+# The HTRomance project
+
+This page is in the making, be patient.
