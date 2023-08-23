@@ -13,6 +13,10 @@ To do.
 - Alix Chagué
 -->
 
+## Citation
+
+To do.
+
 ## Funding
 
 This project was funded by the Bibliothèque nationale de France through the 2022 project calls from [Datalab](https://www.bnf.fr/fr/bnf-datalab) for 2023.
@@ -20,3 +24,7 @@ This project was funded by the Bibliothèque nationale de France through the 202
 ## Infrastructure
 
 This project relied on the [CREMMA infrastructure](https://www.dim-map.fr/projets-soutenus/cremma/).
+
+## View the datasets
+
+To do.
