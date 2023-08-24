@@ -6,11 +6,23 @@ The main objective of the project is the production of training data and transcr
 
 ## Members
 
-To do.
-
 <!--
 - Thibault Clérice
 - Alix Chagué
+- Ariane Pinche
+- Jean-Baptiste Camps
+- Matthias Gille-Levenson
+- Olivier Brisville-Fertin
+- Franz Fischer
+- Federico Boschetti
+- Elisa Guadagnini
+- Gilles Guilhem Couffignal
+- Olivier Canteaut
+- Nicolas Perreaux
+- Thierry Poibeau
+- Marianne Reboul
+- Laurent Romary
+- Marc Smith
 -->
 
 ## Citation
