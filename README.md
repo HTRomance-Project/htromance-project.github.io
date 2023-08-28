@@ -54,4 +54,10 @@ This project relied on the [CREMMA infrastructure](https://www.dim-map.fr/projet
 
 ## View the datasets
 
-To do.
+➡️ [Modern Roman Languages](https://htromance-project.github.io/modern-roman-languages/)  
+➡️ [Medieval Latin](https://htromance-project.github.io/medieval-italian/)
+➡️ [Medieval Italian](https://htromance-project.github.io/medieval-italian/) 
+➡️ [Middle Ages in Spain](https://htromance-project.github.io/middle-ages-in-spain/) 
+➡️ [Medieval French](https://htromance-project.github.io/medieval-french/) 
+➡️ [Medieval Occitan](https://htromance-project.github.io/medieval-occitan/) 
+
