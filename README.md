@@ -6,24 +6,22 @@ The main objective of the project is the production of training data and transcr
 
 ## Members
 
-<!--
-- Thibault Clérice
-- Alix Chagué
-- Ariane Pinche
-- Jean-Baptiste Camps
-- Matthias Gille-Levenson
-- Olivier Brisville-Fertin
-- Franz Fischer
-- Federico Boschetti
+- Thibault Clérice, PI
+- Alix Chagué, PI
+- Matthias Gille-Levenson, Language coordinator
+- Olivier Brisville-Fertin, Language coordinator
+- Ariane Pinche, Language coordinator
+- Jean-Baptiste Camps, Language coordinator
+- Franz Fischer, Language coordinator
+- Federico Boschetti, Language coordinator
 - Elisa Guadagnini
-- Gilles Guilhem Couffignal
+- Gilles Guilhem Couffignal, Language coordinator
 - Olivier Canteaut
+- Laurent Romary
+- Marianne Reboul
 - Nicolas Perreaux
 - Thierry Poibeau
-- Marianne Reboul
-- Laurent Romary
 - Marc Smith
--->
 
 ## Citation
 
