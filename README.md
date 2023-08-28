@@ -25,7 +25,7 @@ The main objective of the project is the production of training data and transcr
 
 ## Citation
 
-Clérice, T., Chagué, A., Gille-Levenson, M., Brisville-Fertin, O., Pinche, A., Camps, J., Fischer, F., Boschetti, F., Guadagnini, E., Guilhem Couffignal, G., Canteaut, O., Romary, L., Reboul, M., Perreaux, N., Poibeau, T., & Smith, M. *HTRomance* [Data set]. https://htromance-project.github.io/
+> Clérice, T., Chagué, A., Gille-Levenson, M., Brisville-Fertin, O., Pinche, A., Camps, J., Fischer, F., Boschetti, F., Guadagnini, E., Guilhem Couffignal, G., Canteaut, O., Romary, L., Reboul, M., Perreaux, N., Poibeau, T., & Smith, M. *HTRomance* [Data set]. https://htromance-project.github.io/
 
 ```
 @misc{Clerice_HTRomance,
